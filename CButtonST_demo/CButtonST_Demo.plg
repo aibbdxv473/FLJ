@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CButtonST_Demo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\hb56\LOCALS~1\Temp\RSP3FF9.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CButtonST_Demo.pdb" /debug /machine:I386 /out:"Debug/CButtonST_Demo.exe" /pdbtype:sept 
+".\Debug\BackgroundUtil.obj"
+".\Debug\BCMenu.obj"
+".\Debug\BkDialog.obj"
+".\Debug\BtnST.obj"
+".\Debug\CButtonST_Demo.obj"
+".\Debug\CButtonST_DemoDlg.obj"
+".\Debug\CeXDib.obj"
+".\Debug\DlgAbout.obj"
+".\Debug\DlgAdvanced.obj"
+".\Debug\DlgBasic.obj"
+".\Debug\DlgShadeButtonST.obj"
+".\Debug\DlgTransparent.obj"
+".\Debug\HyperLink.obj"
+".\Debug\MyTabCtrl.obj"
+".\Debug\ShadeButtonST.obj"
+".\Debug\StdAfx.obj"
+".\Debug\WinXPButtonST.obj"
+".\Debug\CButtonST_Demo.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\hb56\LOCALS~1\Temp\RSP3FF9.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+CButtonST_Demo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
